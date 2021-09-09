@@ -1,4 +1,4 @@
-# Google Photos Analytics
+# Google Photos Analytics ❤️📷
 
 I was a Data Scientist at Google in Mountain View.
 
