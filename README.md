@@ -1,3 +1,3 @@
-# google-photos-analytics
+# Google Photos Analytics
 
 
