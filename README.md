@@ -1,4 +1,4 @@
-# Google Photos Analytics 💚📸
+# Google Photos Product Analytics 💚📸
 
 I was a Data Scientist in Engineering at Google in Mountain View at Googleplex.
 
