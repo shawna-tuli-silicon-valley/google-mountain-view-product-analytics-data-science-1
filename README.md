@@ -1,3 +1,4 @@
+![Google_2015_logo svg](https://user-images.githubusercontent.com/19508013/165827531-06279fbd-60b2-4137-96db-a4ee660c11eb.png)
 ![Google-Photos-Logo](https://user-images.githubusercontent.com/19508013/165650186-4f0c0081-ad0e-43ac-9908-802ad125bb8b.png)
 
 I was a Data Scientist in Engineering at Google in Mountain View at Googleplex. I analyzed 1B+ Google Photos users in 20 countries who take 2.6B photos per day and provided meaningful product recommendations by data storytelling.
