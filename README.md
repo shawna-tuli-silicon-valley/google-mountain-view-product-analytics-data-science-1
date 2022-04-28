@@ -1,3 +1,5 @@
+![google2 0 0](https://user-images.githubusercontent.com/19508013/165774325-ec17b692-c186-4b58-bdb3-6ae9957b5cd2.jpg)
+
 ![Google-Photos-Logo](https://user-images.githubusercontent.com/19508013/165650186-4f0c0081-ad0e-43ac-9908-802ad125bb8b.png)
 
 I was a Data Scientist in Engineering at Google in Mountain View at Googleplex.
