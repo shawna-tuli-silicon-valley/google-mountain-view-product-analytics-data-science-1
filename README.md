@@ -1,4 +1,4 @@
-# Google Photos Product Analytics 💚📸
+![Google-Photos-Logo](https://user-images.githubusercontent.com/19508013/165650186-4f0c0081-ad0e-43ac-9908-802ad125bb8b.png)
 
 I was a Data Scientist in Engineering at Google in Mountain View at Googleplex.
 
