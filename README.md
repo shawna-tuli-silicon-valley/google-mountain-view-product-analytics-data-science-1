@@ -5,7 +5,7 @@
 
 "Thanks for being an amazing intern on the team! It's really my honor and pleasure to work with you. Take your time and enjoy college life! (Sadly I don't have the priviledge anymore) 
 
-I think you did an awesome job this summer, looking back a few years, I couldn't done nearly a small fraction of what you've accomplished so far. Be confident and be proud of yourself, I believe you will do great in the future. So good luck and take care until we meet again (maybe at Google)!" - Shenzhi Wang (Google Data Scientist) 
+I think you did an awesome job this summer, looking back a few years, I couldn't have done nearly a small fraction of what you've accomplished so far. Be confident and be proud of yourself, I believe you will do great in the future. So good luck and take care until we meet again (maybe at Google)!" - Shenzhi Wang (Google Data Scientist) 
 
 ![IMG_2168](https://user-images.githubusercontent.com/19508013/152579351-fd55a6e5-6427-429d-863c-d5a1edae8e09.jpeg)
 
